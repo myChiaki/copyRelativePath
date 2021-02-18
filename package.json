@@ -1,8 +1,9 @@
 {
-	"name": "copy_relative_path",
+	"name": "copyrelativepath",
 	"displayName": "CopyRelativePath",
 	"description": "Leave Blank",
 	"version": "0.0.1",
+	"publisher": "Chiaki",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
